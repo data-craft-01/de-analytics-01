@@ -1,7 +1,7 @@
 # 🙋‍♂️ About myself
 
 
-Hi All, I'm Tushar Saxena,Data Analyst with expertise in data cleansing, creating ETL pipelines, exploraroty data anaysis, data analysis and reporting, database design, and data modelling.
+Hi All, I'm a Data Analyst with complementary skills of Data Engineering and have expertise in creating ETL pipelines, data cleansing and transformation, database design, data modelling, reporting/visualization, exploraroty data anaysis, data analytics/analysis and advanced analytics.
 
 -	**Data Governance**: Data Sourcing, Data Quality Management (golden version of data), Self-Serve BI tools, Visualization.
 -	**Customer & Marketing Analytics**: Cross-selling, upsell, pre-sales analysis, Compete analysis, Product analysis, Campaign performance, Sales analysis, A/B & Multivariate Testing, Web Analytics, Attribution Modelling, LTV Analysis
@@ -11,7 +11,7 @@ Hi All, I'm Tushar Saxena,Data Analyst with expertise in data cleansing, creatin
 -	**Economic Impact Forecasting**: Forecast the economic impact that new releases and features may have on the company's growth and create business plans to support the planning and forecasting process.
 -	**Customer Feedback**: Gather and analyze customer feedback to identify opportunities for product enhancements, improve user satisfaction, and align with customer needs.
 -	**Performance Metrics**: Develop and maintain product performance dashboards, tracking key metrics and KPIs to monitor success and identify areas for improvement.
-- **Dashboards/ Reports** -  Develop dashboards as per agreed wireframe, with features for drill-down and showcase insights.
+- **Dashboards/ Reports** -  Develop interactive dashboards, with features for drill-down and showcase actionable insights.
 
 
 ## 📚 Projects
@@ -29,18 +29,3 @@ Explore my portfolio, a space dedicated to showcasing my [projects](https://gith
 - Version Control: GIT
 - CRM Tools: Salesforce, Adobe Marketing Cloud, Hubspot
 
-
-## 👋🏻 Connect with Me
-
-- [Linkedin](https://www.linkedin.com/in/tushar-saxena-5b189b12/)
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
