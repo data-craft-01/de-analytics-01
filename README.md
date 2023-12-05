@@ -16,7 +16,7 @@ Hi All, I'm a Data Analyst with complementary skills of Data Engineering and hav
 
 ## 📚 Projects
 
-Explore my portfolio, a space dedicated to showcasing my [projects](https://github.com/tusharkumarsaxena/data_portfolio#readme).
+Explore my portfolio, a space dedicated to showcasing my [projects](https://github.com/de-analytics-01/projects_portfolio).
 
 
 ## 🛠️ Tools
