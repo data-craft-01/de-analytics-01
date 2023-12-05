@@ -28,4 +28,3 @@ Explore my portfolio, a space dedicated to showcasing my [projects](https://gith
 - BI Visualization & Reporting: Tableau, Power BI, Domo, Looker, MicroStrategy, Qlikview, PowerPivot, Cognos, Excel
 - Version Control: GIT
 - CRM Tools: Salesforce, Adobe Marketing Cloud, Hubspot
-
